@@ -1,0 +1,218 @@
+{
+    "commmon":
+    {
+        "entry": "Laten we beginnen",
+        "welcome": "Welkom",
+        "chooselg": "Kies een taal",
+        "home": "Home",
+        "orders": "Bestellingen",
+        "cart": "Winkelwagen",
+        "profile": "Profiel",
+        "continueButton": "Doorgaan",
+        "qty":"Qty",
+        "status":"status"
+    },
+    "orderStatus":{
+        "orderStatus":"Bestel status",
+        "preparation" : "Bestelling in voorbereiding",
+        "done" : "Klaar om te leveren",
+        "arriving" : "Onderweg",
+        "delivered" : "Bestelling afgeleverd",
+        "closed" : "gedaan"
+    },
+    "loginPages":
+    {
+        "title": "Welkom bij onze app! Laten we in uw account duiken",
+        "withGoogle": "Log in met Google",
+        "withApple": "Log in met Apple",
+        "withFacebook":"Log in met Facebook",
+        "or":"of",
+        "withPassword":"Login met wachtwoord",
+        "signInPage":{
+            "title": "Welkom",
+            "msg": "Voer uw e-mailadres en wachtwoord in om in te loggen",
+            "email": "email",
+            "pwd": "wachtwoord",
+            "rememberme": "Herinner me",
+            "forgotpwd": "Wachtwoord vergeten?",
+            "noAccount": "Heeft u geen account?",
+            "signUp": "Aanmelden",
+            "login":"Log in",
+            "errorPage":{
+                "title": "Ongeldig account!",
+                "message" : "Probeer opnieuw in te loggen of eerst te registreren" 
+            },
+            "validCredentialsPage":{
+                "title": "Inloggen is gelukt!",
+                "message": "Een ogenblik geduld... U wordt doorgestuurd naar de startpagina!"
+            }
+        },
+        "registerPage":{
+            "title": "Account aanmaken",
+            "msg": "Voeg de finishing touch toe aan je profiel, zodat je ons heerlijke eten kunt bestellen!",
+            "button":"Account aanmaken",
+            "label":{
+                "name":"naam",
+                "location": "adres",
+                "birthdate":"geboorte datum",
+                "email":"email",
+                "gsm":"Mobiel nummer",
+                "password":"Wachtwoord",
+                "confirmpwd": "Voer het wachtwoord opnieuw in om het wachtwoord te bevestigen"
+            },
+            "placeholder":{
+                "name":"Vul naam in",
+                "location": "Vul je adres in",
+                "birthday": "Vul je geboorte datum in",
+                "email":"Vul je email in",
+                "gsm": "Vul je mobiel nummer in",
+                "password": "Vul je wachtwoord in",
+                "confirmpwd": "Bevestig uw wachtwoord"
+            },
+            "emailVerificationPage":{
+                "title":"Email verificatie",
+                "message":"Er is een verificatielink naar uw e-mailadres verzonden! Klik op de link om uw account te verifiëren",
+                "button": "Doorgaan" 
+            },
+            "accountVerifiedPage":{
+                "title": "Account succesvol geverifieerd!",
+                "message": "Even geduld a.u.b. U wordt doorverwezen naar de startpagina"
+            },
+            "errorPage":{
+                "title": "Er is een fout opgetreden",
+                "message":" Probeer opnieuw te registreren"
+            }
+        }},
+        "navBar":{
+            "home":"Start Pagina",
+            "orders":"Bestellingen",
+            "cart": "Winkelwagen",
+            "profile": "Profiel"
+        },
+        "drawer":{
+            "settings": "Instellingen",
+            "about": "Over ons"
+        },
+        "menuPage":{
+            "promo":{
+                "limitedOffer": "Tijdelijke aanbieding!",
+                "msg1": "Geniet van een fantastisch",
+                "msg2": "korting op al onze producten"
+            },
+            "search":"Zoeken",
+            "promos":"Korting!",
+            "menu": "Menu",
+            "popularMenu":"Populair Menu",
+            "viewall":"Bekijk alles"
+        },
+        "itemPage":
+        {
+            "about": "beschrijving",
+            "qty":"Hoeveelheid",
+            "buyNow":"Koop nu",
+            "addToCart": "Toevoegen aan winkelkmand",
+            "price":"Prijs"
+        },
+        "cartPage":{
+            "cart":"Winkelmand",
+            "qty": "Qty",
+            "deliveryFee":"Delivery Fee",
+            "minimumOrder":" Minimum Order",
+            "checkout" : "Checkout"
+        },
+        "paymentPage":{
+            "title":"Betaal methode",
+            "pickUpMethod": "Ophaal methode",
+            "takeAway": "Take away",
+            "delivery": "Levering",
+            "address":"Bezorgadres",
+            "paymentMethod":"Betaal methode",
+            "payNow":"Nu Betalen",
+            "errorPage":{
+                "title":"De betaling is mislukt",
+                "message": "Druk op Doorgaan om terug te keren naar de pagina met betaalmethoden"
+            },
+            "succesfulPaymentPage":{
+                "title":"Betaling gelukt!",
+                "message":"De betaling van uw bestelling is gelukt"
+            }
+        },
+        "orderPage":{
+            "title":"Bestellingen",
+            "active": "Actief",
+            "completed":"Voltooid",
+            "canceled": "Geannuleerd",
+            "dates":{
+                "today":"Vandaag",
+                "yesterday":"Gisteren"
+            },
+            "cancel": "Bestelling annuleren",
+            "trackOrder": "Order volgen"
+        },
+        "trackingPage":{
+            "arriving":"Chauffeur komt aan...",
+            "preparation":"Bestelling in voorbereiding",
+            "arrived":"De bestelling is afgeleverd bij uw adres!"
+        },
+        "orderStatusConfirmation":{
+            "title":"Heeft u uw levering ontvangen?",
+            "no":"Nee",
+            "yes":"Ja"
+        },
+        "serviceReviewQuestion":
+        {
+            "title":"De bestelling is succesvol aangekomen",
+            "message":"Genieten van onze service? Deel uw mening met een snelle beoordeling! Uw feedback is belangrijk voor ons. Bedankt voor je ondersteuning!",
+            "later": "Later",
+            "review": "Beoordeling"
+        },
+        "reviewPage":{
+            "title": "Laat uw mening achter",
+            "serviceQuality":"Algemene servicekwaliteit",
+            "deliveryService":"Bezorgservice",
+            "feedback":"Schrijf uw mening",
+            "later":"Later",
+            "confirm":"Bevestigen",
+            "notification": "Bedankt voor uw feedback! Wij waarderen uw steun!"
+        },
+        "profilePage":{
+            "firstname":"Voornaam",
+            "lastname":"Achternaam",
+            "location": "Adres",
+            "birthday":"Geboortedatum",
+            "email":"Email",
+            "gsm":"Mobiel nummer",
+            "language":"Taal"
+        },
+        "aboutPage":{
+            "Menu":"Openings Uren",
+            "title": "Onze concept",
+            "text1": "Red Geisha is een sushibar-restaurant met verse en smakelijke Japanse specialiteiten. In de Aziatische cultuur symboliseert de kleur rood succes, vreugde, liefde, passie en feest.",
+            "text2":"Wat is de betekenis van Geisha?",
+            "text3":"Persoon die de kunsten beoefent betekent dat het doet denken aan het land van de rijzende zon, vuurwerk en festivals zoals Tenjin-Matsuri, een van de bruidsjonkersfestivals in Japan...",
+            "text4":"Hier komt de naam Red Geisha vandaan, omdat onze gerechten met liefde en passie artistiek worden gemaakt."
+
+        },
+        "menu":{
+            "appetizers":"Voorgerechten",
+            "tempuraScampi":{
+                "title":"Tempura Scampi (4st)",
+                "description": "Gepaneerde en gebakken scampi's"
+            },
+            "tempuraMixte":{
+                "title": "Tempura Mix",
+                "description": "Breaded and fried scampi,sweet potato, bell pepers and zucchini"
+            },
+            "karaage":{
+                "title":"Karaage (6st)",
+                "description":"Gepaneerde en gebakken gemarineerde kip"
+            }
+
+
+        },
+        "settings":{
+
+        }        
+
+
+}

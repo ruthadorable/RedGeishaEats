@@ -1,0 +1,219 @@
+{
+    "commmon":
+    {
+        "entry": "Let's get started",
+        "welcome": "Welcome",
+        "chooselg": "Choose a language",
+        "home": "Home",
+        "orders": "Orders",
+        "cart": "Cart",
+        "profile": "Profile",
+        "continueButton": "Continue",
+        "qty":"Qty",
+        "status":"status"
+    },
+    "orderStatus":{
+        "orderStatus":"Order status",
+        "preparation" : "In preparation",
+        "done" : "Ready for delivery",
+        "arriving" : "Arriving to destination",
+        "delivered" : "Delivered",
+        "closed" : "Closed"
+    },
+    "loginPages":
+    {
+        "title": "Welcome to our app! Let's dive into your account",
+        "withGoogle": "Sign in with Google",
+        "withApple": "Sign in with Apple",
+        "withFacebook":"Sign in with Facebook",
+        "or":"or",
+        "withPassword":"Sign in with password",
+        "signInPage":{
+            "title": "Welcome",
+            "msg": "Please enter your email & password to sign in",
+            "email": "email",
+            "pwd": "Password",
+            "rememberme": "Remember me",
+            "forgotpwd": "Forgot password?",
+            "noAccount": "Don't have an account?",
+            "signUp": "Sign Up",
+            "login":"Login",
+            "errorPage":{
+                "title": "Invalid account!",
+                "message" : "Try Signing In again or Registering first" 
+            },
+            "validCredentialsPage":{
+                "title": "Sign in succesful!",
+                "message": "Please wait... You will be directed at the home page!"
+            }
+        },
+        "registerPage":{
+            "title": "Create an account",
+            "msg": "Add the finishing touches to your profile, so you can order our delicious food!",
+            "button":"Create account",
+            "label":{
+                "firstname":"firstname",
+                "lastname":"lastname",
+                "location": "location",
+                "birthday":"birthday",
+                "email":"email",
+                "gsm":"Cellphone number",
+                "password":"password",
+                "confirmpwd": "Re enter password to confirm pwd"
+            },
+            "placeholder":{
+                "firstname":"Enter your first name",
+                "lastname": "Enter your last name",
+                "location": "Enter your location",
+                "birthday": "Enter Birthday",
+                "email":"email",
+                "gsm": "Enter your phone number",
+                "password": "Enter your password",
+                "confirmpwd": "Confirm your password"
+            },
+            "emailVerificationPage":{
+                "title":"Email verification",
+                "message":"A verification link has been sent to your email",
+                "button": "Continue" 
+            },
+            "accountVerifiedPage":{
+                "title": "Account Succesfully Verified!",
+                "message": "Please wait ... you will be directed to the home page"
+            },
+            "errorPage":{
+                "title": "Error!",
+                "message":"Something went wrong! Try to register again"
+            }
+        }},
+        "navBar":{
+            "home":"Home",
+            "orders":"Orders",
+            "cart": "Cart",
+            "profile": "Profile"
+        },
+        "drawer":{
+            "settings": "Settings",
+            "about": "About"
+        },
+        "menuPage":{
+            "promo":{
+                "limitedOffer": "Limited time offer!",
+                "msg1": "Enjoy a fantastic ",
+                "msg2": "discount on all of our products"
+            },
+            "search":"Search",
+            "promos":"Discount!",
+            "menu": "Menu",
+            "popularMenu":"Popular Menu",
+            "viewall":"View all"
+        },
+        "itemPage":
+        {
+            "about": "About",
+            "qty":"Quantity",
+            "buyNow":"Buy now",
+            "addToCart": "Add to cart",
+            "price":"price"
+        },
+        "cartPage":{
+            "cart":"Cart",
+            "qty": "Qty",
+            "deliveryFee":"Delivery Fee",
+            "minimumOrder":" Minimum Order",
+            "checkout" : "Checkout"
+        },
+        "paymentPage":{
+            "title":"Payment Method",
+            "pickUpMethod": "Pick Up Method",
+            "takeAway": "Take away",
+            "delivery": "Delivery",
+            "address":"Delivery Address",
+            "paymentMethod":"Payment Method",
+            "payNow":"Pay Now",
+            "errorPage":{
+                "title":"Payment was unsuccessful",
+                "message": "Press continue to return to the payment method page"
+            },
+            "succesfulPaymentPage":{
+                "title":"Payment successful!",
+                "message":"The payment of your order was successful"
+            }
+        },
+        "orderPage":{
+            "title":"Orders",
+            "active": "Active",
+            "completed":"Completed",
+            "canceled": "Canceled",
+            "dates":{
+                "today":"Today",
+                "yesterday":"Yesterday"
+            },
+            "cancel": "Cancel Order",
+            "trackOrder": "Track order"
+        },
+        "trackingPage":{
+            "arriving":"Driver is arriving...",
+            "preparation":"Order in preparation",
+            "arrived":"The order has been delivered!"
+        },
+        "orderStatusConfirmation":{
+            "title":"Have you received your delivery?",
+            "no":"No",
+            "yes":"Yes"
+        },
+        "serviceReviewQuestion":
+        {
+            "title":"Delivery succesfully arrived",
+            "message":"Enjoying our service? Share your thoughts with a quick review! Your feedback matters to us. Thank you for your support!",
+            "later": "Later",
+            "review": "Review"
+        },
+        "reviewPage":{
+            "title": "Leave a review",
+            "serviceQuality":"Overall service Quality",
+            "deliveryService":"Delivery Service",
+            "feedback":"Write your feedback",
+            "later":"Later",
+            "confirm":"Confirm",
+            "notification": "Thank you for your feedback! We appreciate your support!"
+        },
+        "profilePage":{
+            "name":"Name",
+            "location": "location",
+            "birthday":"birthday",
+            "email":"email",
+            "gsm":"Cellphone number",
+            "language":"Language"
+        },
+        "aboutPage":{
+            "Menu":"Open Hours",
+            "title": "Our concept",
+            "text1": "Red Geisha is a sushi bar restaurant with fresh and tasty Japan's specialties. In Asian culture, the color red symbolizes success, joy, love, passion and celebration.",
+            "text2":"What is the meaning of Geisha?",
+            "text3":"Person who practices the arts meaning, it recalls the land of the rising sun, fireworks and festivals such as Tenjin-Matsuri, one of the groomsmen festivals in Japan…",
+            "text4":"This is where the name Red Geisha comes from, because our dishes are made artisticaly with love and passion."
+
+        },
+        "menu":{
+            "appetizers":"Appetizers",
+            "tempuraScampi":{
+                "title":"Tempura Scampi(4pcs)",
+                "description": "Breaded and fried scampi"
+            },
+            "tempuraMixte":{
+                "title": "Tempura Mix",
+                "description": "Breaded and fried scampi,sweet potato, bell pepers and zucchini"
+            },
+            "karaage":{
+                "title":"Karaage (6pcs)",
+                "description":"breaded and fried chicken"
+            }
+
+
+        },
+        "settings":{
+
+        }        
+
+
+}
