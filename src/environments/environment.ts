@@ -26,6 +26,7 @@ const analytics = getAnalytics(app)
 export const environment = {
   production: false,
   firebase: firebaseConfig,
+  googleMapsApiKey: 'AIzaSyAEMD4aK80Cw7D9TnJC32hCW9KnvhjNES8',
 }
 
 /*

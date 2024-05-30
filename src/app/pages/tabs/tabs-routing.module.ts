@@ -13,11 +13,11 @@ const routes: Routes = [
         loadChildren: () =>
           import('./home/home.module').then((m) => m.HomePageModule),
       },
-      {
-        path: 'orders',
-        loadChildren: () =>
-          import('./orders/orders.module').then((m) => m.OrdersPageModule),
-      },
+      // {
+      //   path: 'orders',
+      //   loadChildren: () =>
+      //     import('./orders/orders.module').then((m) => m.OrdersPageModule),
+      // },
       {
         path: 'cart',
         loadChildren: () =>
@@ -35,11 +35,17 @@ const routes: Routes = [
       },
     ],
   },
+
   {
-    path: 'orders',
+    path: 'address',
     loadChildren: () =>
-      import('./orders/orders.module').then((m) => m.OrdersPageModule),
+      import('./address/address.module').then((m) => m.AddressPageModule),
   },
+  // {
+  //   path: 'orders',
+  //   loadChildren: () =>
+  //     import('/orders/orders.module').then((m) => m.OrdersPageModule),
+  // },
 ]
 
 @NgModule({
