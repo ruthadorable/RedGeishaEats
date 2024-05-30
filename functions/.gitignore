@@ -1,9 +1,3 @@
-# Compiled JavaScript files
-lib/**/*.js
-lib/**/*.js.map
-
-# TypeScript v1 declaration files
-typings/
-
-# Node.js dependency directory
-node_modules/
+version https://git-lfs.github.com/spec/v1
+oid sha256:53f0943856a9b17df11ed3bc1c5ffb616bfa15542a5d5bb9a39bb68c9c624cef
+size 393
