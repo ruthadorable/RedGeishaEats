@@ -1,15 +1,3 @@
-import { Address } from './address.model'
-import { Item } from './item.model'
-import { Restaurant } from './restaurant.model'
-
-export class Cart {
-  constructor(
-    public restaurant: Restaurant,
-    public items: Item[],
-    public totalItem?: number,
-    public totalPrice?: number,
-    public grandTotal?: number,
-    public location?: Address,
-    public deliveryCharge?: number,
-  ) {}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2469859cf0ff47045f9d487aad8206fd522309f48fa64fb4ee03f4824655ddc0
+size 452
