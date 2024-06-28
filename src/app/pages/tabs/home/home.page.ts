@@ -1,25 +1,3 @@
-import { Component, OnInit } from '@angular/core'
-// import Swiper core and required modules
-import SwiperCore, { Keyboard, Pagination, SwiperOptions } from 'swiper'
-
-// install Swiper modules
-SwiperCore.use([Pagination, Keyboard])
-
-@Component({
-  selector: 'app-home',
-  templateUrl: './home.page.html',
-  styleUrls: ['./home.page.scss'],
-})
-export class HomePage implements OnInit {
-  config: SwiperOptions = {
-    slidesPerView: 1,
-    // navigation: true,
-    pagination: { clickable: true },
-    keyboard: { enabled: true },
-    // centeredSlides: true
-  }
-
-  constructor() {}
-
-  ngOnInit() {}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:984008286efa2fa6b79b68c3986bebc1033cd1a1b87a7330ac49d446ad8f6e4d
+size 1514

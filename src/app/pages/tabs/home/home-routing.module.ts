@@ -1,17 +1,3 @@
-import { NgModule } from '@angular/core';
-import { Routes, RouterModule } from '@angular/router';
-
-import { HomePage } from './home.page';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: HomePage
-  }
-];
-
-@NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
-})
-export class HomePageRoutingModule {}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9904ee194fff6b73425b87c3ec8b417ed20b5b4c6720301586852a3e110e800c
+size 546
