@@ -1,10 +1,3 @@
-export class User {
-  constructor(
-    public email: string,
-    public phone: string,
-    public name?: string,
-    public uid?: string,
-    public type?: string,
-    public status?: string,
-  ) {}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d72b8d60ccc44dcceb03dfbae27df5255147839adb19f3d2f2192c77010d606
+size 211
