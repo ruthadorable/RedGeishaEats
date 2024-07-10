@@ -1,22 +1,3 @@
-import { NgModule } from '@angular/core'
-import { CommonModule } from '@angular/common'
-import { FormsModule } from '@angular/forms'
-
-import { IonicModule } from '@ionic/angular'
-
-import { HomePageRoutingModule } from './home-routing.module'
-
-import { HomePage } from './home.page'
-//import { SwiperModule } from 'swiper/angular';
-
-@NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    HomePageRoutingModule,
-    //SwiperModule
-  ],
-  declarations: [HomePage],
-})
-export class HomePageModule {}
+version https://git-lfs.github.com/spec/v1
+oid sha256:58d323e6d567198ea5c40d4cd1c91c2e6329c3a60900b7b5726e79e5c709e0b8
+size 664
