@@ -1,24 +1,3 @@
-import { NgModule } from '@angular/core'
-import { CommonModule } from '@angular/common'
-import { RestaurantComponent } from './restaurant/restaurant.component'
-import { IonicModule } from '@ionic/angular'
-import { LoadingRestaurantComponent } from './loading-restaurant/loading-restaurant.component'
-import { EmptyScreenComponent } from './empty-screen/empty-screen.component'
-import { SearchLocationComponent } from './search-location/search-location.component'
-
-@NgModule({
-  declarations: [
-    RestaurantComponent,
-    LoadingRestaurantComponent,
-    EmptyScreenComponent,
-    SearchLocationComponent,
-  ],
-  imports: [CommonModule, IonicModule],
-  exports: [
-    RestaurantComponent,
-    LoadingRestaurantComponent,
-    EmptyScreenComponent,
-    SearchLocationComponent,
-  ],
-})
-export class ComponentsModule {}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e86f479aa3643cd45a4f6eb0c66aff511ff11816dea8cca33324a62eb5f5cc7
+size 908

@@ -1,21 +1,3 @@
-import { Address } from './address.model'
-import { Item } from './item.model'
-import { Restaurant } from './restaurant.model'
-
-export class Order {
-  constructor(
-    public address: Address,
-    public restaurant: Restaurant,
-    public restaurant_id: string,
-    public order: Item[],
-    public total: number,
-    public grandTotal: number,
-    public deliveryCharge: number,
-    public status: string,
-    public time: string,
-    public paid: string,
-    public id?: string,
-    public user_id?: string,
-    public instruction?: string,
-  ) {}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:05304699ce688645119bc634b94abb61420a88107cd800a91607038a4bcaa56b
+size 505

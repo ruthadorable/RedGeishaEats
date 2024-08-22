@@ -1,7 +1,3 @@
-{
-  "name": "swiggyCloneApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c8779dc84ed9239ab8a6d3e6d7a6d4a46732a085d5596852ac79cbdd22071bf
+size 97
