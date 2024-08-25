@@ -1,22 +1,3 @@
-import { Capacitor } from '@capacitor/core'
-import { Injectable } from '@angular/core'
-//import { Geolocation, PositionOptions } from '@capacitor/geolocation';
-
-@Injectable({
-  providedIn: 'root',
-})
-export class LocationService {
-  constructor() {}
-
-  async getCurrentLocation() {
-    if (!Capacitor.isPluginAvailable('Geolocation')) {
-      return null
-    }
-    const options: PositionOptions = {
-      maximumAge: 3000,
-      timeout: 10000,
-      enableHighAccuracy: false,
-    }
-    // return await Geolocation.getCurrentPosition(options);
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:493e0867620473b00968e71b4462afa39e65ec11d63f7494e55672bfe62e0e4b
+size 1318

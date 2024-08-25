@@ -1,22 +1,3 @@
-import { NgModule } from '@angular/core'
-import { CommonModule } from '@angular/common'
-import { FormsModule } from '@angular/forms'
-
-import { IonicModule } from '@ionic/angular'
-
-import { AddressPageRoutingModule } from './address-routing.module'
-
-import { AddressPage } from './address.page'
-import { ComponentsModule } from 'src/app/components/components.module'
-
-@NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    AddressPageRoutingModule,
-    ComponentsModule,
-  ],
-  declarations: [AddressPage],
-})
-export class AddressPageModule {}
+version https://git-lfs.github.com/spec/v1
+oid sha256:64e796fac8425476a62adf78f963d00297ba126ec19fd04ede3c7d00c571979e
+size 644
