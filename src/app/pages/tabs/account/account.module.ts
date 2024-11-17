@@ -1,22 +1,3 @@
-import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { FormsModule } from '@angular/forms';
-
-import { IonicModule } from '@ionic/angular';
-
-import { AccountPageRoutingModule } from './account-routing.module';
-
-import { AccountPage } from './account.page';
-import { OrdersComponent } from 'src/app/components/orders/orders.component';
-import { EditProfileComponent } from 'src/app/components/edit-profile/edit-profile.component';
-
-@NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    AccountPageRoutingModule
-  ],
-  declarations: [AccountPage, OrdersComponent, EditProfileComponent],
-})
-export class AccountPageModule {}
+version https://git-lfs.github.com/spec/v1
+oid sha256:004d45b295348a1ee05d73274e51fb59ab879ea055b2d9b4e0555311b5955b80
+size 759
